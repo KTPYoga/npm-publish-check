@@ -1,7 +1,6 @@
-var waitPage = function(){
-    this.printMessage= function(){
+
+
+    exports.printMessage = () => {
         console.log('Message from node');
     };
-   
-};
-module.exports = new waitPage;
+        
