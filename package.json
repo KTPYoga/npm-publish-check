@@ -1,8 +1,8 @@
 {
-  "name": "npm-publish-check",
-  "version": "1.4.0",
+  "name": "@abot/npm-publish-check",
+  "version": "2.0.0",
   "description": "This is the test package for publish",
-  "main": "./waitTool.js",
+  "main": "./waitTool.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
