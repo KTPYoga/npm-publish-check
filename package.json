@@ -1,0 +1,16 @@
+{
+  "name": "npm-publish-check",
+  "version": "1.1.0",
+  "description": "This is the test package for publish",
+  "main": "waitTool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "publish"
+  ],
+  "author": "yogaraj selvam",
+  "license": "ISC"
+}
