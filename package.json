@@ -1,6 +1,6 @@
 {
   "name": "npm-publish-check",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "This is the test package for publish",
   "main": "./waitTool.ts",
   "scripts": {
