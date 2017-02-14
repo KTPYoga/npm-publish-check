@@ -1,8 +1,8 @@
 {
   "name": "npm-publish-check",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "This is the test package for publish",
-  "main": "waitTool.js",
+  "main": "./waitTool.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
